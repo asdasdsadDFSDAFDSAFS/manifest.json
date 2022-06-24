@@ -1,0 +1,2 @@
+# manifest.json
+Malbra News
