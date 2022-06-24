@@ -1,38 +1,37 @@
 {
-  "name": "MALBRA NEWS",
-  "short_name": "MALBRA NEWS IKON",
-  "scope": "URL HOMEPAGE",
+  "name": "MalbraNews",
+  "short_name": "MalbraNews",
   "start_url": "https://malbranews.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#2B0C93",
-  "description": "Teknologo dan Info Menarik",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
   "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s48/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s72/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s96/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s144/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s168/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s192/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNk3G9xUHTK7u56RSZKeN-Uok6nqtvvK1HHCTgkVIAOAV1mg2dZ0DNhveHXZi6qDtzvTRmiJJpceT_rE5PAegUrJ1zh6W8SPgp0hUlSgdISUWSsJ18_fmHUv0EhJTIlO-bCIcerxF0-jvsklpgBmi7DzAX2FTt-31KUIJXF14scbhY9ki_zR4P2vxR/s616/MN.png/s512/logo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s632/MN2.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
